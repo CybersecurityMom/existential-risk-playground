@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/aqs-existential risk-playground-github-banner.png" alt="AQ’s Corner – Existential Risk Playground Banner" width="100%">
+  <img src="assets/aqs-existential-risk-playground-github-banner.png" alt="AQ’s Corner – Existential Risk Playground Banner" width="100%">
 </p>
 
 # existential-risk-playground
