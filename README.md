@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/aqs-existential-risk-playground-github-banner.png" alt="AQ’s Corner – Existential Risk Playground Banner" width="100%">
+</p>
+
 # existential-risk-playground
 
 Tiny, friendly demos that help people understand **existential risk in AI**, **misalignment**, and **AI safety** without needing a PhD.
